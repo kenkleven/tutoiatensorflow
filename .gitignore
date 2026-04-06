@@ -4,3 +4,4 @@ housing.csv
 my_california_housing_model.pkl
 data/
 my_mnist.mmap
+model
